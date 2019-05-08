@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
        int a = suma(numero, 12);
         Log.d(TAG, "suma: " + a);
 
+
     }
 
     private int suma(int numero, int i) {
